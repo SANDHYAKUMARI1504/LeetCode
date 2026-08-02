@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
+| [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 <!---LeetCode Topics End-->
