@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Greedy
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 ## Sorting
