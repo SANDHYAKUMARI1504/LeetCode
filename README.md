@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
