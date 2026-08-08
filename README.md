@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1688-count-of-matches-in-tournament](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Greedy
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
