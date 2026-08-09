@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Geometry
 |  |
