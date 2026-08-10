@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
