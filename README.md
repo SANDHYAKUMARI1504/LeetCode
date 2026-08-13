@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3477-fruits-into-baskets-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
