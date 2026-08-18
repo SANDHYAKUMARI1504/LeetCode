@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3152-special-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3152-special-array-ii) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3208-alternating-groups-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3208-alternating-groups-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3152-special-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3152-special-array-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 <!---LeetCode Topics End-->
