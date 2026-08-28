@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0238-product-of-array-except-self](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3152-special-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3152-special-array-ii) |
