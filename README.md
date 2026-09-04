@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2568-minimum-impossible-or](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2568-minimum-impossible-or) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
 | [1496-path-crossing](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [1496-path-crossing](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Counting Sort
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [3477-fruits-into-baskets-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
@@ -179,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2568-minimum-impossible-or](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2568-minimum-impossible-or) |
+## Design
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
