@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1424-diagonal-traverse-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1424-diagonal-traverse-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -206,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1424-diagonal-traverse-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
