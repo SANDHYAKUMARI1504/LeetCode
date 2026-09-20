@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [1496-path-crossing](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1424-diagonal-traverse-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1686-stone-game-vi](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1686-stone-game-vi) |
@@ -258,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1686-stone-game-vi) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
