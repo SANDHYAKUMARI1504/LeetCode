@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1686-stone-game-vi) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1686-stone-game-vi](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1686-stone-game-vi) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Simulation
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-diagonal-traverse-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1686-stone-game-vi](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1686-stone-game-vi) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2017-grid-game](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2017-grid-game) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
