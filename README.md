@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1496-path-crossing](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
