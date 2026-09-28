@@ -1,11 +1,11 @@
 class Solution:
     def averageWaitingTime(self, customers):
-        t = total = 0
+        current_time = 0
+        total_waiting = 0
 
-        for a, p in customers:
-            if t < a:
-                t = a
-            t += p
-            total += t - a
+        for arrival, time in customers:
+            current_time = max(current_time, arrival)
+            current_time += time
+            total_waiting += current_time - arrival
 
-        return total / len(customers)
+        return total_waiting / len(customers)
