@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1686-stone-game-vi) |
 | [1701-average-waiting-time](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1701-average-waiting-time) |
+| [1726-tuple-with-same-product](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1765-map-of-highest-peak) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1496-path-crossing](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1726-tuple-with-same-product](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1726-tuple-with-same-product](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Bubble Sort
