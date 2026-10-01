@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3208-alternating-groups-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3477-fruits-into-baskets-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3039-apply-operations-to-make-string-empty](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## String
 |  |
 | ------- |
