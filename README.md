@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3433-count-mentions-per-user](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3477-fruits-into-baskets-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2579-count-total-number-of-colored-cells](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3100-water-bottles-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3100-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3433-count-mentions-per-user) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [3100-water-bottles-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
+| [3433-count-mentions-per-user](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3477-fruits-into-baskets-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3433-count-mentions-per-user](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3433-count-mentions-per-user) |
 ## String
 |  |
 | ------- |
