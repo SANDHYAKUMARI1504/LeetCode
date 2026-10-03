@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3433-count-mentions-per-user](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Trie
 |  |
 | ------- |
