@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
