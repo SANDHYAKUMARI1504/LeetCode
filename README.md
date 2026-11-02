@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3030-find-the-grid-of-region-average](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3030-find-the-grid-of-region-average) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 ## Trie
