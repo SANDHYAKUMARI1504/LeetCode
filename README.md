@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0525-contiguous-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -334,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0118-pascals-triangle) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
