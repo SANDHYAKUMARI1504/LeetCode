@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0290-word-pattern](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
