@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0118-pascals-triangle) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Floyd's Cycle Finding Algorithm
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
