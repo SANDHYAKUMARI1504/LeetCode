@@ -1,20 +1,18 @@
-
 class Solution {
     public int climbStairs(int n) {
         if (n <= 2) {
             return n;
         }
-
-        int first = 1;
-        int second = 2;
-
+        
+        int prev2 = 1; // Ways to reach step 1
+        int prev1 = 2; // Ways to reach step 2
+        
         for (int i = 3; i <= n; i++) {
-            int current = first + second;
-
-            first = second;
-            second = current;
+            int current = prev1 + prev2;
+            prev2 = prev1;
+            prev1 = current;
         }
-
-        return second;
+        
+        return prev1;
     }
 }
