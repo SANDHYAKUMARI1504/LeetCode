@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0525-contiguous-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3152-special-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3152-special-array-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
