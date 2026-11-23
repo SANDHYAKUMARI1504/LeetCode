@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0525-contiguous-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2353-design-a-food-rating-system](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/2353-design-a-food-rating-system) |
 ## Heap (Priority Queue)
