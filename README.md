@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1002-find-common-characters](https://github.com/SANDHYAKUMARI1504/LeetCode/tree/master/1002-find-common-characters) |
